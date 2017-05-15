@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('leave-the-marks:server');
+var debug = require('debug')('nodejs-module-four-five:server');
 var http = require('http');
 
 /**

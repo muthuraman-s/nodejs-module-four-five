@@ -1,11 +1,11 @@
 {
-  "name": "leave-the-marks",
+  "name": "nodejs-module-four-five",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
-  "author": "arunkumar",
+  "author": "muthu",
   "dependencies": {
     "bcrypt": "^1.0.2",
     "body-parser": "~1.17.1",
